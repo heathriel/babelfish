@@ -1,3 +1,4 @@
 nexmo
 tornado>=4.4.2
 requests>=2.12.4
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
